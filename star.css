@@ -1,0 +1,9 @@
+ .red-star-list li::before{
+            content: '★';
+            color: red;
+            padding: 5px;
+            }
+  
+  .red-star-list {
+    list-style: none;
+  }          
